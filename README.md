@@ -1,5 +1,8 @@
 # Data Analysis Notebook (Public)
 
+[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?logo=github&logoColor=white)](https://github.com/danielrosehill/Data-Analysis-Notebook-Public)
+
+
 Not really a notebook (as in, not an *actual* data notebook). Rather, a sort of "first entry" repository for storing some light analysis and experimentation with various datasets, commonly those related to my job (at the time of writing).
 
 ![Sloth working on some data](images/datasloth.webp)
